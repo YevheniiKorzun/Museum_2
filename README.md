@@ -1,4 +1,4 @@
-Museum landing page
+<b>Museum landing page</b>
 
 - Large screens 2560px
 - Full HD 1920px
