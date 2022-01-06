@@ -1,4 +1,4 @@
-<h1><b>Museum landing page</b></h1> - [Demo](https://yevheniikorzun.github.io/Museum/)
+<h1><b>Museum landing page</b></h1> -[Demo](https://yevheniikorzun.github.io/Museum/)
 
 <b>Technologies used:</b> HTML/CSS, SCSS, JavaScript, BEM
 
