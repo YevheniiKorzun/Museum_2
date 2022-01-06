@@ -1,4 +1,4 @@
-<h1><b>Museum landing page</b></h1>
+<h1><b>Museum landing page</b></h1> - [Demo](https://yevheniikorzun.github.io/Museum/)
 
 <b>Technologies used:</b> HTML/CSS, SCSS, JavaScript, BEM
 
@@ -9,5 +9,3 @@
 - Notebook 1280px
 - Tablet 1024
 - Mobile (> 320px)
-
-- [Demo](https://yevheniikorzun.github.io/Museum/)
