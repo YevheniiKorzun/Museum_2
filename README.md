@@ -10,4 +10,4 @@
 - Tablet 1024
 - Mobile (> 320px)
 
-[https://yevheniikorzun.github.io/Museum/][-Demo]
+[https://yevheniikorzun.github.io/Museum/][-https://yevheniikorzun.github.io/Museum/]
