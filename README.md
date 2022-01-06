@@ -1,4 +1,4 @@
-<g><b>Museum landing page</b></g>
+<h1><b>Museum landing page</b></h1>
 
 <b>Technologies used:</b> HTML/CSS, SCSS, JavaScript, BEM
 
